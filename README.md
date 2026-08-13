@@ -6,4 +6,4 @@ The state of a dynamic system can be represented in a general form as:
 
 $$\frac{\mathbf{d} \mathbf{h} \left( t \right)}{\mathbf{d} t} = f \left( \mathbf{h} \left( t \right), t, \theta \right)$$
 
-where, the time derivative of the system $\frac{\mathbf{d} \mathbf{h} \left( t \right)}{\mathbf{d} t}$ is parameterized by a neural network model $f$.
+where, the time derivative of the system $\frac{\mathbf{d} \mathbf{h}}{\mathbf{d} t}$ is parameterized by a neural network model $f$.
